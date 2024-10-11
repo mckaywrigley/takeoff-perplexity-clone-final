@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1727725225092,
+      "tag": "0000_worried_cloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1727731495695,
+      "tag": "0001_spotty_living_mummy",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1727813231872,
+      "tag": "0002_last_iron_fist",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1728588885906,
+      "tag": "0003_minor_sister_grimm",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1728597716823,
+      "tag": "0004_bright_shiva",
+      "breakpoints": true
+    }
+  ]
+}
